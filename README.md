@@ -1,15 +1,30 @@
+<<<<<<< HEAD
 # Audio-Exercise
 
 Tugas Pemrosesan Audio untuk mata kuliah Pemrosesan Informasi Multimedia (IF-4021)
 
 ## Lingkungan Pengembangan
 - Python 3.x
+=======
+# Audio-Exercise IF-4021 Multimedia Information Processing
+Rayhan Fatih Gunawan
+NIM.122140134
+
+
+
+## Lingkungan Pengembangan
+- Python 3.11.X
+>>>>>>> 9628633f13dc9556d01451ac8610d46e27abd181
 - Visual Studio Code dengan ekstensi Jupyter Notebook
 - Windows (direkomendasikan, karena dikembangkan di Windows)
 
 ## Library yang Dibutuhkan
 Berikut adalah library Python yang diperlukan untuk menjalankan project ini:
+<<<<<<< HEAD
 - numpy: Untuk operasi matematika dan array
+=======
+- numpy: Untuk operasi matematika 
+>>>>>>> 9628633f13dc9556d01451ac8610d46e27abd181
 - librosa: Untuk pemrosesan dan analisis audio
 - matplotlib: Untuk visualisasi data
 - soundfile: Untuk membaca dan menulis file audio
@@ -46,10 +61,15 @@ Audio-Exercise/
    - Atau gunakan shortcut Shift+Enter
 
 ## Catatan Penting
+<<<<<<< HEAD
 - Pastikan struktur folder dan nama file sesuai dengan yang disebutkan di atas
 - Jika menggunakan sistem operasi selain Windows, mungkin perlu menyesuaikan path separator dalam kode
 - Rekaman audio harus dalam format WAV
 - Pastikan Python dan pip sudah terinstal di sistem Anda
+=======
+- Sound yang berada di repository hanya merupakan bahan dasar untuk menjalankan semua code cell, dari menjalankan code cell dihasilkan audio hasil pemrosesannya. 
+- Mungkin jika dijalankan dua kali ada beberapa duplikat yang terbuat
+>>>>>>> 9628633f13dc9556d01451ac8610d46e27abd181
 
 ## Deskripsi Soal
 Project ini terdiri dari 5 soal utama:
@@ -59,5 +79,9 @@ Project ini terdiri dari 5 soal utama:
 4. Audio processing chain
 5. Music analysis dan remix
 
+<<<<<<< HEAD
 Setiap soal memiliki instruksi dan requirement spesifik yang dijelaskan dalam notebook.
+=======
+
+>>>>>>> 9628633f13dc9556d01451ac8610d46e27abd181
 
